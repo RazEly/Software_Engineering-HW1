@@ -1,0 +1,412 @@
+Test number 1 starts.
+Welcome to the student management system!
+1. Add student
+
+2. Display all students
+
+3. Calculate a student's average grade
+
+4.Find the top performing student
+
+5.Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Invalid grades.
+Enter student name:
+Enter grades:
+Invalid grades.
+Enter student name:
+Enter grades:
+Invalid grades.
+Enter student name:
+Enter grades:
+Invalid grades.
+6
+Invalid choice. Please try again
+y
+Invalid choice. Please try again
+Enter student name:
+Enter grades:
+Student unmri added successfully!
+Enter student name:
+Enter grades:
+Student dloer added successfully!
+Enter student name:
+Enter grades:
+Student txcow added successfully!
+Enter student name:
+Enter grades:
+Student sxmht added successfully!
+Enter student name:
+Enter grades:
+Student qyswc added successfully!
+Enter student name:
+Enter grades:
+Student wppgx added successfully!
+Enter student name:
+Enter grades:
+Student nviia added successfully!
+Enter student name:
+Enter grades:
+Student hlydu added successfully!
+Enter student name:
+Enter grades:
+Student ftonw added successfully!
+Enter student name:
+Enter grades:
+Student paajo added successfully!
+Enter student name:
+Enter grades:
+Student gkbjf added successfully!
+Enter student name:
+Enter grades:
+Student sxgun added successfully!
+Enter student name:
+Enter grades:
+Student syfwe added successfully!
+Enter student name:
+Enter grades:
+Student zshpj added successfully!
+Enter student name:
+Enter grades:
+Student atkqw added successfully!
+Enter student name:
+Enter grades:
+Student lilyw added successfully!
+Enter student name:
+Enter grades:
+Student zwbjj added successfully!
+Enter student name:
+Enter grades:
+Student jbbdz added successfully!
+Enter student name:
+Enter grades:
+Student xavqd added successfully!
+Enter student name:
+Enter grades:
+Student omtcu added successfully!
+Enter student name:
+Enter grades:
+Student bkfjw added successfully!
+Enter student name:
+Enter grades:
+Student xskdj added successfully!
+Enter student name:
+Enter grades:
+Student eyhdv added successfully!
+Enter student name:
+Enter grades:
+Student houcc added successfully!
+Enter student name:
+Enter grades:
+Student titho added successfully!
+Enter student name:
+Enter grades:
+Student dkuxk added successfully!
+Enter student name:
+Enter grades:
+Student jtnht added successfully!
+Enter student name:
+Enter grades:
+Student eokgc added successfully!
+Enter student name:
+Enter grades:
+Student ulafp added successfully!
+Enter student name:
+Enter grades:
+Student gbbxy added successfully!
+Enter student name:
+Enter grades:
+Student desuo added successfully!
+Enter student name:
+Enter grades:
+Student yzlru added successfully!
+Enter student name:
+Enter grades:
+Student dnjrb added successfully!
+Enter student name:
+Enter grades:
+Student qptfn added successfully!
+Enter student name:
+Enter grades:
+Student qqcos added successfully!
+Enter student name:
+Enter grades:
+Student bxrnu added successfully!
+Enter student name:
+Enter grades:
+Student fvanw added successfully!
+Enter student name:
+Enter grades:
+Student blnnp added successfully!
+Enter student name:
+Enter grades:
+Student kskvs added successfully!
+Enter student name:
+Enter grades:
+Student ksizc added successfully!
+Enter student name:
+Enter grades:
+Student yqexo added successfully!
+Enter student name:
+Enter grades:
+Student yuqex added successfully!
+Enter student name:
+Enter grades:
+Student tbnel added successfully!
+Enter student name:
+Enter grades:
+Student ujrrr added successfully!
+Enter student name:
+Enter grades:
+Student nqbli added successfully!
+Enter student name:
+Enter grades:
+Student xfron added successfully!
+Enter student name:
+Enter grades:
+Student ublhz added successfully!
+Enter student name:
+Enter grades:
+Student xposh added successfully!
+Enter student name:
+Enter grades:
+Student jmnib added successfully!
+Enter student name:
+Enter grades:
+Student lpaps added successfully!
+Name: unmri, Grades: 24.93, 42.68
+Name: dloer, Grades: 68.67, 45.1, 68.5, 97.12, 94.61, 88.89
+Name: txcow, Grades: 59.58
+Name: sxmht, Grades: 77.85, 15.44, 78.73, 15.92, 70.41, 95.71, 87.48
+Name: qyswc, Grades: 37.36
+Name: wppgx, Grades: 26.28, 61.3, 98.67, 48.53, 49.9, 5.95, 86.24, 62.45, 96.42
+Name: nviia, Grades: 77.06, 25.51, 28.47, 82.87, 67.09, 16.03, 12.42, 48.43
+Name: hlydu, Grades: 2.7
+Name: ftonw, Grades: 23.07, 15.13, 32.34, 77.76, 73.18, 32.37, 84.45, 17.55
+Name: paajo, Grades: 44.79
+Name: gkbjf, Grades: 59.91, 83.19, 66.82, 39.68, 69.02, 10.01, 9.69
+Name: sxgun, Grades: 32.67, 99.58
+Name: syfwe, Grades: 99.55, 10.01, 97.6, 61.16
+Name: zshpj, Grades: 50.43, 44.34
+Name: atkqw, Grades: 93.07, 57.59, 56.7, 95.92, 11.76, 80.35, 65.3, 7.49
+Name: lilyw, Grades: 5.82
+Name: zwbjj, Grades: 63.51, 45.9, 38.47, 87.5, 85.42, 25.21, 24.46, 58.88, 44.31
+Name: jbbdz, Grades: 89.61, 52.07
+Name: xavqd, Grades: 93.64, 4.17, 63.11
+Name: omtcu, Grades: 73.19, 24.95, 48.76, 52.72, 52.71, 45.0
+Name: bkfjw, Grades: 75.43, 26.35, 5.03, 4.85, 51.02, 4.44, 38.35
+Name: xskdj, Grades: 92.3, 90.36, 10.15, 90.49, 1.02, 83.1, 67.66, 98.27, 58.02
+Name: eyhdv, Grades: 77.15, 77.34, 36.61, 7.09, 65.6
+Name: houcc, Grades: 51.8
+Name: titho, Grades: 9.47, 65.68, 94.75, 66.04, 31.78
+Name: dkuxk, Grades: 40.39, 5.36, 94.26, 10.62, 12.86, 34.86, 50.66, 72.78
+Name: jtnht, Grades: 13.84, 32.88, 8.72, 50.02, 80.51, 86.26
+Name: eokgc, Grades: 17.61, 60.65
+Name: ulafp, Grades: 66.59, 83.4, 60.52, 8.52, 53.38, 88.24, 89.36, 58.71
+Name: gbbxy, Grades: 81.93, 42.54, 4.58, 1.14, 80.16, 26.27
+Name: desuo, Grades: 55.38, 2.24, 62.95, 38.17
+Name: yzlru, Grades: 17.91, 40.14, 54.61, 10.33, 33.87, 52.57
+Name: dnjrb, Grades: 28.61, 1.64, 79.95, 57.44, 47.66, 91.6
+Name: qptfn, Grades: 22.53, 69.14, 81.67, 19.4, 36.52, 85.99, 44.87, 82.92, 98.89, 76.33
+Name: qqcos, Grades: 21.52
+Name: bxrnu, Grades: 46.46
+Name: fvanw, Grades: 23.89, 53.69, 59.89
+Name: blnnp, Grades: 89.69, 1.94, 34.12, 2.7, 37.48, 94.28, 66.82
+Name: kskvs, Grades: 91.35, 73.67, 25.0, 35.91, 22.79, 14.06, 32.37
+Name: ksizc, Grades: 13.26, 81.14, 33.42, 57.87
+Name: yqexo, Grades: 93.86, 25.91, 87.81
+Name: yuqex, Grades: 1.29, 53.2, 12.72, 42.31, 51.92
+Name: tbnel, Grades: 37.64, 15.89, 54.58
+Name: ujrrr, Grades: 35.11, 3.86, 63.77, 75.26, 87.38
+Name: nqbli, Grades: 63.52, 99.19, 75.8, 55.12, 41.76, 6.36, 59.47, 65.68
+Name: xfron, Grades: 54.85, 57.71, 66.51
+Name: ublhz, Grades: 5.08
+Name: xposh, Grades: 4.97, 84.3, 53.11
+Name: jmnib, Grades: 23.79, 65.21, 42.5, 35.57, 68.94
+Name: lpaps, Grades: 95.07, 17.52, 0.96, 71.48, 13.93
+Enter student name:
+Average grade for jbbdz: 70.84
+Enter student name:
+Average grade for ublhz: 5.08
+Enter student name:
+Average grade for desuo: 39.69
+Enter student name:
+Average grade for xskdj: 65.71
+Enter student name:
+Average grade for nqbli: 58.36
+Enter student name:
+Average grade for tbnel: 36.04
+Enter student name:
+Average grade for atkqw: 58.52
+Enter student name:
+Average grade for yzlru: 34.9
+Enter student name:
+Average grade for fvanw: 45.82
+Enter student name:
+Average grade for atkqw: 58.52
+Top performing student: dloer with an average grade of 77.15. 
+Enter student name:
+Enter grades:
+Student plsow added successfully!
+Enter student name:
+Enter grades:
+Student uwotx added successfully!
+Enter student name:
+Enter grades:
+Student vmbmp added successfully!
+Enter student name:
+Enter grades:
+Student dlsff added successfully!
+Enter student name:
+Enter grades:
+Student zlzzo added successfully!
+Enter student name:
+Enter grades:
+Student fsceq added successfully!
+Enter student name:
+Enter grades:
+Student ccfuz added successfully!
+Enter student name:
+Enter grades:
+Student andyo added successfully!
+Enter student name:
+Enter grades:
+Student ufyxi added successfully!
+Enter student name:
+Enter grades:
+Student qddii added successfully!
+Enter student name:
+Enter grades:
+Student zyvff added successfully!
+Enter student name:
+Enter grades:
+Student abspo added successfully!
+Enter student name:
+Enter grades:
+Student ftqvm added successfully!
+Enter student name:
+Enter grades:
+Student liqao added successfully!
+Enter student name:
+Enter grades:
+Student mekzf added successfully!
+Enter student name:
+Enter grades:
+Student ubeqj added successfully!
+Enter student name:
+Enter grades:
+Student mrhxo added successfully!
+Enter student name:
+Enter grades:
+Student ktbng added successfully!
+Enter student name:
+Enter grades:
+Student bszya added successfully!
+Enter student name:
+Enter grades:
+Student oydpi added successfully!
+Enter student name:
+Enter grades:
+Student pauyd added successfully!
+Enter student name:
+Enter grades:
+Student jhlhb added successfully!
+Enter student name:
+Enter grades:
+Student rhgym added successfully!
+Enter student name:
+Enter grades:
+Student bdylw added successfully!
+Enter student name:
+Enter grades:
+Student tmcys added successfully!
+Enter student name:
+Enter grades:
+Student erkvj added successfully!
+Enter student name:
+Enter grades:
+Student jwxmy added successfully!
+Enter student name:
+Enter grades:
+Student iodzf added successfully!
+Enter student name:
+Enter grades:
+Student cwgxx added successfully!
+Enter student name:
+Enter grades:
+Student ntxzk added successfully!
+Enter student name:
+Enter grades:
+Student euzkn added successfully!
+Enter student name:
+Enter grades:
+Student darwo added successfully!
+Enter student name:
+Enter grades:
+Student jajut added successfully!
+Enter student name:
+Enter grades:
+Student frbjs added successfully!
+Enter student name:
+Enter grades:
+Student vycne added successfully!
+Enter student name:
+Enter grades:
+Student qevpi added successfully!
+Enter student name:
+Enter grades:
+Student gxlay added successfully!
+Enter student name:
+Enter grades:
+Student wuuvn added successfully!
+Enter student name:
+Enter grades:
+Student wwwqg added successfully!
+Enter student name:
+Enter grades:
+Student mxzke added successfully!
+Enter student name:
+Enter grades:
+Student nzreb added successfully!
+Enter student name:
+Enter grades:
+Student vdtke added successfully!
+Enter student name:
+Enter grades:
+Student dcmpl added successfully!
+Enter student name:
+Enter grades:
+Student bfzxj added successfully!
+Enter student name:
+Enter grades:
+Student ngrlk added successfully!
+Enter student name:
+Enter grades:
+Student drjyz added successfully!
+Enter student name:
+Enter grades:
+Student shvqu added successfully!
+Enter student name:
+Enter grades:
+Student wrunb added successfully!
+Enter student name:
+Enter grades:
+Student ipsce added successfully!
+Enter student name:
+Enter grades:
+Student cjwmt added successfully!
+R
+Invalid choice. Please try again
+Enter student name:
+Enter grades:
+Student limit reached.
+Enter student name:
+Enter grades:
+Exception java.util.NoSuchElementException: No line found
+Test number 1 ended.
+-----------------------------------------------
+All tests have ended.
+
+Process finished with exit code 0

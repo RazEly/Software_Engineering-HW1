@@ -42,7 +42,7 @@ public class Main {
             }
         }
         for (int i = 0; i < studentCount; i++) {
-            if(name.equals(students[i])) {
+            if(name.equalsIgnoreCase(students[i])) {
                 grades[i] = gradesArrayDouble.clone();
                 gradesMean[i] = calcMean(grades[i]);
                 System.out.println("Student " + name + " added successfully!");
@@ -72,7 +72,7 @@ public class Main {
         return Math.round((sum/grades.length) * 100.00) / 100.00;
     }
     /**
-     * prints all of the students in the database
+     * prints all the students in the database
      */
     static void displayStudents() {
         if(studentCount == 0) {
@@ -95,11 +95,11 @@ public class Main {
         // check that it's not an empty string?
         for (int i = 0; i < studentCount ; i++) {
             if(students[i].equals(name)) {
-                System.out.println("Average grade for " + name + ": " + gradesMean[i]);
+                System.out.println("Average grade for " + name + ": " + String.format("%.2f", gradesMean[i]) + ".");
                 return true;
             }
         }
-        System.out.println("No student found with name" + name + ".");
+        System.out.println("No student found with name " + name + ".");
         return false;
     }
     /**
@@ -119,7 +119,7 @@ public class Main {
                 topID = i;
             }
         }
-        System.out.println("Top performing student: " + students[topID] + " with an average grade of " + topMean +". ");
+        System.out.println("Top performing student: " + students[topID] + " with an average grade of " + topMean +".");
         return true;
     }
 
@@ -131,11 +131,11 @@ public class Main {
      * 
      */
     public static void manageGrades() {
-        System.out.println("Welcome to the student management system!"); //DEFAULT TEXT
-        System.out.println("1. Add student\n\n2. Display all students\n\n3. Calculate a student's average grade\n\n4.Find the top performing student\n\n5.Exit");
-        System.out.println("Please enter your choice:");
         char deanInput;
+        System.out.println("Welcome to the Student Grade Management System!");
         do {
+            System.out.println("1. Add a new student\n2. Display all students\n3. Calculate a student's average grade\n4. Find the top performing student\n5. Exit");
+            System.out.println("Please enter your choice:");
             deanInput = scanner.nextLine().charAt(0);
             switch (deanInput) {
                 case '1':
